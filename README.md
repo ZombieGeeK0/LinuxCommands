@@ -209,3 +209,43 @@
 | sum | Imprime una suma de comprobación de un archivo |
 | suspend | Suspender la ejecución de la Shell |
 | symlink | Hacer un nuevo nombre para un archivo |
+| tee | Redirigir la salida a varios archivos |
+| test | Evaluar una expresión condicional |
+| time | Medir Programa de tiempo de ejecución |
+| times | Tiempos de usuario y del sistema |
+| trap | Ejecutar un comando cuando se establece una señal (bourne) |
+| tr | Traducir y/o eliminar caracteres |
+| tsort | Clasificación topológica |
+| tty | Imprimir nombre de archivo del la terminal en la entrada estándar |
+| type | Describe un comando |
+| ulimit | Límites de recursos de usuario |
+| umask | Archivo usuarios máscara de creación |
+| umount | Desmontar un dispositivo |
+| unexpand | Convertir espacios para pestañas |
+| uniq | Permite remover o mostrar las líneas repetidas de un archivo |
+| units | Convertir unidades de una escala a otra |
+| unset | Quitar nombres de variables o funciones |
+| unshar | Secuencias de comandos shell de desempaquetado de archivos |
+| until | Ejecutar comandos (hasta error) |
+| uptime | Mostrar el tiempo de actividad |
+| users | Lista de usuarios logueados |
+| uuencode | Codificar un archivo binario |
+| uudecode | Decodificar un archivo creado por uuencode |
+| v | Lista el contenido del directorio más detallados (`ls -l -b ') |
+| vdir | Lista más detallada del contenido del directorio (`ls -l -b ') |
+| vi | Editor de texto |
+| vmstat | Informe de estadísticas de memoria virtual |
+| wait | Esperar a que un proceso se complete |
+| watch | Ejecutar / visualizar un programa periódicamente |
+| wc | Imprimir byte, palabra y los recuentos de línea |
+| whereis | Busca ruta del usuario, páginas del manual y archivos de código fuente de un programa |
+| which | Busca la ruta del usuario para un archivo de programa |
+| while | Ejecutar comandos |
+| who | Imprimir todos los nombres de usuario actualmente logueados |
+| whoami | Imprimir el ID de usuario actual y el nombre |
+| wget | Recuperar páginas web o archivos a través de HTTP, HTTPS o FT |
+| write | Enviar un mensaje a otro usuario |
+| xargs | Ejecutar utilidad, pasando lista de argumentos construidos |
+| xdg-open | Abrir un archivo o URL en aplicación preferida del usuario |
+| yes | Imprimir una cadena hasta que se interrumpa |
+| whois | Obtiene información de un dominio o de una IP |
