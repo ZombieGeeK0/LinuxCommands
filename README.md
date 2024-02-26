@@ -73,6 +73,60 @@
 | date | Muestra la hora, el mes y el año |
 | fdisk | Permite crear, eliminar o modificar particiones del disco duro |
 | dmesg | El comando dmesg (de diagnostic message) permite obtener los mensajes y alertas del kernel |
+| apropos | Sirve para buscar entre las páginas del manual y las descripciones |
+| aptitud | Buscar e instalar paquetes de software (Debian) |
+| aspell | Corrector ortográfico |
+| awk | Buscar y reemplazar texto |
+| basename | Listar directorio y el sufijo de nombres de archivo |
+| bash | GNU Bourne-Again Shell |
+| bc | Precisión arbitraria idioma calculadora |
+| bg | Enviar a fondo |
+| break | Salida de un bucle |
+| builtin | Ejecutar una orden interna del shell |
+| bzip2 | Comprimir o descomprimir archivos |
+| case | Ejecutar un comando condicionalmente |
+| cfdisk | Administra de la tabla de particiones para Linux |
+| chroot | Ejecutar un comando con un directorio raíz diferente |
+| chkconfig | Los servicios del sistema (nivel de ejecución) |
+| cksum | Imprimir CRC checksum y bytes recuentos |
+| comm | Comparación de dos archivos ordenadas por líneas |
+| command | Ejecutar un comando - haciendo caso omiso de las funciones de shell |
+| continue | Reanudar la siguiente iteración de un bucle |
+| cron | Ejecuta comandos programados |
+| crontab | Programar un comando para ejecutar en un momento posterior |
+| csplit | Dividir un archivo en trozos de contexto determinado |
+| cut | Dividir un archivo en varias partes |
+| dc | Calculadora de Escritorio |
+| ddrescue | Herramienta de recuperación de datos |
+| declare | Declarar variables y darles atributos |
+| diff3 | Muestra diferencias entre los tres archivos |
+| dircolors | Configuración de color |
+| dirname | Convertir una ruta completa a sólo una ruta |
+| dirs | Mostrar la lista de directorios recordadas |
+| du | Estimar el uso del espacio de archivos |
+| egrep | Búsqueda de archivos (s) para las líneas que coincidan con una expresión extendida |
+| eject | Expulsar medios extraíbles |
+| enable | Activar y desactivar los comandos de shell |
+| env | Las variables de entorno |
+| ethtool | Configuración de la tarjeta Ethernet |
+| eval | Evaluar varios comandos / argumentos |
+| exec | Ejecuta un comando |
+| exit | Salir de la shell |
+| expect | Automatizar aplicaciones arbitrarias accedidos a través de un terminal |
+| expand | Convierte pestañas a espacios |
+| export | Establecer una variable de entorno |
+| expr | Evaluar expresiones |
+| false | No hacer nada |
+| fdformat | Formato de Bajo nivel de un disquete |
+| file | Determinar tipo de archivo |
+|  |  |
+
+
+
+
+
+
+
 
 
 https://www.1000tipsinformaticos.com/2017/05/comandos-kali-linux-de-la-a-a-la-z.html
