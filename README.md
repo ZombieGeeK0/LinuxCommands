@@ -139,17 +139,73 @@
 | install | Copia de archivos y establecer atributos |
 | jobs | Enumerar los trabajos activos |
 | join | Une líneas en un campo común |
-
-
-POR LA LETRA L
-
-
-
-
-
-
-
-
-
-
-https://www.1000tipsinformaticos.com/2017/05/comandos-kali-linux-de-la-a-a-la-z.html
+| less | Muestra la salida de la  pantalla de una sola vez |
+| let | Realizar operaciones aritméticas sobre variables de shell |
+| ln | Crea un enlace simbólico a un archivo |
+| local | Crear las variables |
+| logname | Muestra el nombre sesión actual |
+| logout | Salir de un shell |
+| look | Mostrar líneas que comienzan con una cadena dada |
+| lpc | Programa de control de la impresora |
+| lpr | línea de impresión |
+| lprint | Imprimir un archivo |
+| lprintd | Abortar un trabajo de impresión |
+| lprintq | Escribir la cola de impresión |
+| lprm | Eliminar trabajos de la cola de impresión |
+| lsof | Lista de archivos abiertos |
+| make | Vuelve a compilar un grupo de programas |
+| mkfifo | Crear FIFO |
+| mkisofs | Crear un Sistema de archivos hibridos ISO9660/JOLIET/HFS |
+| mknod | Hacer de caracteres o bloques archivos especiales |
+| more | La salida de visualización de una pantalla a la vez |
+| mount | Montar  un sistema de archivos |
+| mtools | Manipular archivos de MS-DOS |
+| mtr | Diagnóstico de la red (traceroute / ping) |
+| mmv | Mover y renombrar (archivos) |
+| nl | Número de líneas escritas en un archivo |
+| nohup | Ejecutar un comando inmune a bloqueos |
+| notify-send | Enviar notificaciones de escritorio |
+| nslookup | Consultas a los servidores de nombres de dominio de forma interactiva |
+| open | Abrir un archivo en su aplicación por defecto |
+| op | Acceso del operador |
+| paste | Fusionar líneas de archivos |
+| pathchk | Compruebar la portabilidad nombre del archivo |
+| pkill | Detener los procesos se están ejecutando |
+| popd | Restaura el valor anterior del directorio actual |
+| pr | Preparar archivos para impresión |
+| printcap | Base de datos de la capacidad de la impresora |
+| printenv | Variables de entorno de impresión |
+| printf | Formato y datos de impresión |
+| pushd | Guardar y luego cambie el directorio actual |
+| quota | Visualizar el uso del disco y los límites |
+| quotacheck | Escanear un sistema de archivos para el uso del disco |
+| quotactl | Cuotas conjunto de discos |
+| ram | Memoria ram del dispositivo |
+| rcp | Copiar archivos entre dos máquinas |
+| read | Leer una línea de la entrada estándar |
+| readarray | Leer de la entrada estándar en una variable de matriz |
+| readonly | Marcar variables y funciones como solo de lectura |
+| rename | Cambiar el nombre de archivos |
+| renice | Modificar la prioridad de los procesos en ejecución |
+| remsync | Sincronizar archivos remotos vía e-mail |
+| return | Salir de una función de shell |
+| rev | Líneas inversas de un archivo |
+| rsync | Copia de archivos remotos (Sincronizar árboles de archivos) |
+| screen | Terminal de multiple, ejecuta shell remota mediante SSH |
+| scp | Copia de seguridad (copia de archivos remoto) |
+| sdiff | Combinar dos archivos de forma interactiva |
+| sed | Editor sencillo |
+| select | Aceptar la entrada de teclado |
+| seq | Imprimir secuencias numéricas |
+| set | Manipular las variables y funciones de shell |
+| shift | Shift parámetros posicionales |
+| shopt | Opciones de Shell |
+| sleep | Retraso por un tiempo determinado |
+| slocate | Encuentra archivos |
+| sort | Ordenar archivos de texto |
+| source | Ejecutar comandos desde un archivo |
+| split | Dividir un archivo en fragmentos de tamaño fijo |
+| strace | Llamadas al sistema de seguimiento y señales |
+| sum | Imprime una suma de comprobación de un archivo |
+| suspend | Suspender la ejecución de la Shell |
+| symlink | Hacer un nuevo nombre para un archivo |
