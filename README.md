@@ -75,9 +75,4 @@
 | dmesg | El comando dmesg (de diagnostic message) permite obtener los mensajes y alertas del kernel |
 
 
-
-
-
-
-https://www.welivesecurity.com/la-es/2022/12/20/comandos-utiles-linux-trabajar-ciberseguridad/
 https://www.1000tipsinformaticos.com/2017/05/comandos-kali-linux-de-la-a-a-la-z.html
