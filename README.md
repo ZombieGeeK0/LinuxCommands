@@ -68,7 +68,6 @@
 | ssh | Conexión a otro ordeandor con secure shell |
 | clear | Limpia la ventana del terminal |
 | cmp | Compara archivos a nivel de byte |
-| in | Crea un enlace simbólico |
 | cal | Muestra el calendario |
 | date | Muestra la hora, el mes y el año |
 | fdisk | Permite crear, eliminar o modificar particiones del disco duro |
@@ -119,7 +118,31 @@
 | false | No hacer nada |
 | fdformat | Formato de Bajo nivel de un disquete |
 | file | Determinar tipo de archivo |
-|  |  |
+| fold | Ajustar texto para adaptarse a un ancho especificado |
+| for | Ampliar las palabras y ejecutar comandos |
+| format | Formatear discos |
+| free | Uso de la memoria |
+| fsck | Comprobación  y reparación de archivos del sistema |
+| fuser | Identificar/eliminarr el proceso que está accediendo a un archivo |
+| gawk | Buscar y reemplazar texto dentro del archivo |
+| getopts | Analizar parámetros posicionales |
+| groupmod | Modificar un grupo |
+| groups | Imprimir nombres de grupo |
+| hash | Recuerda la ruta completa de un argumento de nombre |
+| help | Muestra la ayuda para un comando |
+| hostname | Imprimir el nombre del sistema |
+| iconv | Convertir un conjunto de caracteres de un archivo |
+| id |  Imprimir identificadores de usuario y de grupo |
+| if | Mostrar condicionalmente un comando |
+| ifconfig | Configurar una interfaz de red |
+| ifdown | Iniciar una interfaz de red |
+| install | Copia de archivos y establecer atributos |
+| jobs | Enumerar los trabajos activos |
+| join | Une líneas en un campo común |
+
+
+POR LA LETRA L
+
 
 
 
