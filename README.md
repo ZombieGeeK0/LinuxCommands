@@ -1,2 +1,6 @@
 # LinuxCommands
-Esta es una lista de los comandos de Linux más importantes.
+
+| Comando  | Uso del comando |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
