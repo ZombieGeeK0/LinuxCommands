@@ -45,3 +45,39 @@
 | userdel | Elimina una cuenta de usuario |
 | wget | Obtiene contenidos de servidores web |
 | zip | Comprime múltiples archivos en un archivo zip |
+| pgrep |  Busca el PID mediante un término de búsqueda |ip
+| killall | Interrumpe y cierra procesos usando el nombre |
+| nice | Define las prioridades de los procesos |
+| ishw | Muestra información sobre el hardware |
+| iscpu | Muestra información sobre el procesador |
+| shutdown, reboot | Apaga o reinicia el sistema |
+| chgrp | Administra los grupos de archivos y directorios |
+| isattr | Muestra los atributos del archivo |
+| chattr | Gestiona los atributos de los archivos |
+| groupadd | Crea grupos de usuarios |
+| passwd | Crea/edita contraseñas para cuentas de usuario |
+| dd | Copia archivos, particiones o discos por bits |
+| mount/unmount | Añade sistemas de archivos (set up/mount) |
+| dig | Solicita información del DNS |
+| route | Muestra y edita tablas de enrutamiento IP |
+| traceroute | Seguimiento de paquetes de datos |
+| netstat | Muestra el estado de las interfaces de red |
+| apt/pacman/yum | Descarga y gestiona paquetes de software |
+| ip | Administra interfaces IP |
+| ftp, sftp | Transferir archivos a través (S)FTP |
+| ssh | Conexión a otro ordeandor con secure shell |
+| clear | Limpia la ventana del terminal |
+| cmp | Compara archivos a nivel de byte |
+| in | Crea un enlace simbólico |
+| cal | Muestra el calendario |
+| date | Muestra la hora, el mes y el año |
+| fdisk | Permite crear, eliminar o modificar particiones del disco duro |
+| dmesg | El comando dmesg (de diagnostic message) permite obtener los mensajes y alertas del kernel |
+
+
+
+
+
+
+https://www.welivesecurity.com/la-es/2022/12/20/comandos-utiles-linux-trabajar-ciberseguridad/
+https://www.1000tipsinformaticos.com/2017/05/comandos-kali-linux-de-la-a-a-la-z.html
