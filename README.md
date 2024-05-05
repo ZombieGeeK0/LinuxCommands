@@ -249,3 +249,12 @@
 | xdg-open | Abrir un archivo o URL en aplicación preferida del usuario |
 | yes | Imprimir una cadena hasta que se interrumpa |
 | whois | Obtiene información de un dominio o de una IP |
+
+<hr>
+
+`[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
+
+    qwfkr
+`[ 📬 ]` Si lo prefieres, mándame un correo a `3xpl017.contact@proton.me.`
+
+    3xpl017.contact@proton.me.
